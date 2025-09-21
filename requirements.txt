@@ -1,0 +1,9 @@
+langgraph 
+langchain_community 
+langchain_openai 
+tavily-python
+crewai
+strands-agents
+semantic-kernel
+ipykernel
+strands-agents-tools
