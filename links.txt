@@ -1,0 +1,11 @@
+LINKS:
+https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-foundations/evolution.html
+https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent/agent-orchestration/magentic?pivots=programming-language-python
+https://strandsagents.com/latest/documentation/docs/user-guide/concepts/multi-agent/swarm/
+https://docs.crewai.com/en/concepts/planning
+https://mcpservers.org/
+https://github.com/modelcontextprotocol/servers
+https://arxiv.org/abs/2305.14325
+https://github.com/Skytliang/Multi-Agents-Debate
+https://github.com/mem0ai/mem0
+
